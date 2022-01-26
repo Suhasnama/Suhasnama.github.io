@@ -3,6 +3,7 @@
 I am a backend software engineer with an experience of almost 2 years. I have hands on experience working with Node.js , Express.js , PostgreSQL and RabbitMQ.
 I also love solving data-structures problem solving.
 
+[Resume](https://drive.google.com/file/d/1xyebESQ4GI--1TT6vmWLWLa_ZJe6EJZ2/view)
 ---
 
 ## Skills
@@ -34,7 +35,7 @@ Working with meetings and workshops team to provide best experience to faciltato
 ## Education
 
 ### **Sreenidhi Institute of Science & Technology - SNIST**
-### BTech Computer Science (2016 - 2020)
+### Bachelor of Technology - Information Technology (2016 - 2020)
 GPA 8.4
 
 ---
