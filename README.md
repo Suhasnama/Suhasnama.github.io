@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/Suhasnama/Suhasnama.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a backend software engineer with an experience of almost 2 years. I have hands on experience working with Node.js , Express.js , PostgreSQL and RabbitMQ.
+I also love solving data-structures problem solving.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html" width="40" height="40">
+  
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png' height='30' width='auto' alt="js">
+  
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png' height='30' width='auto' alt="js">
 
-```markdown
-Syntax highlighted code block
+  
+  
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Experience
 
-1. Numbered
-2. List
+### **Software Engineer**
+### Valuelabs
 
-**Bold** and _Italic_ and `Code` text
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Education
 
-### Jekyll Themes
+### **Sreenidhi Institute of Science & Technology - SNIST**
+### BTech Computer Science (2016 - 2020)
+GPA 8.4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suhasnama/Suhasnama.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### INTERESTS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I love understanding how real time tech products works at scale. So I watch tech talks from their engineering teams.
+
+I love food and hanging out with friends for good food.
+
+---
+
+## Profiles
+
+[Leetcode](https://leetcode.com/suhasNama/)
+
+[LinkedIn](https://www.linkedin.com/in/suhasnama23)
+
+
