@@ -9,12 +9,11 @@ I also love solving data-structures problem solving.
 ## Skills
 
 <p align='left'>
+  <br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html" width="40" height="40">
-  
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  
+  <br><br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png' height='30' width='auto' alt="js">
-  
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png' height='30' width='auto' alt="js">
 
   
