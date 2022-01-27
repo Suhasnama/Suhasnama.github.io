@@ -28,7 +28,7 @@ I also love solving data-structures problem solving.
 ### **Software Engineer**
 ### Valuelabs
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+I work on Test data hub (TDH) , a product of Valuelabs, used to generate, manage test data and more. I worked on migration of node.js backend into micro-services using RabbitMQ message broker and development of remote file access(SFTP & SMB) features in Test data hub. I took interest and worked on configuring and managing docker images.
 
 ---
 
@@ -52,6 +52,9 @@ I love food and hanging out with friends for good food.
 
 [Leetcode](https://leetcode.com/suhasNama/)
 
-[LinkedIn](https://www.linkedin.com/in/suhasnama23)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' height='30' width='auto' alt="js">](https://www.linkedin.com/in/suhasnama23)
 
-[Github](https://github.com/Suhasnama)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg' height='30' width='auto' alt="js">](https://github.com/Suhasnama)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg' height='30' width='auto' alt="js">](https://stackoverflow.com/users/11045781/suhas-nama)
