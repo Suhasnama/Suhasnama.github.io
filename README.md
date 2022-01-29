@@ -3,7 +3,7 @@
 I am a backend software engineer with an experience of almost 2 years. I have hands on experience working with Node.js , Express.js , PostgreSQL and RabbitMQ.
 I also love solving data-structures problem solving.
 
-[Resume](https://drive.google.com/file/d/1xyebESQ4GI--1TT6vmWLWLa_ZJe6EJZ2/view)
+[See Resume](https://drive.google.com/file/d/1xyebESQ4GI--1TT6vmWLWLa_ZJe6EJZ2/view)
 ---
 
 ## Skills
