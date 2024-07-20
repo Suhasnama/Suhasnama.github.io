@@ -1,9 +1,11 @@
 ## Portfolio
 
-I am a backend software engineer with an experience of almost 2 years. I have hands on experience working with Node.js , Express.js , PostgreSQL and RabbitMQ.
-I also love solving data-structures problem solving.
+I am a FullStack Software Engineer with an experience of 4 years, currently work with Barclays. In my current role I'm workingwith React.js, Redux & Redux Sagas, Go lang, Springboot.
+I have worked extensively with AWS Cloud, ranging from Lambdas, DynamoDB, Amazon Connect, Cloudwatch, SQS , DyanmoDB Streams & so on..
 
-[See Resume](https://drive.google.com/file/d/1xyebESQ4GI--1TT6vmWLWLa_ZJe6EJZ2/view)
+I also love solving data-structures problem solving , 
+
+[See Resume](https://drive.google.com/file/d/1QehVmug6_jfOeSYNF0wL4yNreZA7Qneq/view)
 ---
 
 ## Skills
@@ -15,7 +17,7 @@ I also love solving data-structures problem solving.
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height='70' width='auto' alt="c++">
   <br><br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png' height='70' width='auto' alt="postgres">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png' height='50' width='auto' alt="rabbitmq">
+  <!-- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png' height='50' width='auto' alt="rabbitmq"> -->
 
   
   
@@ -25,7 +27,23 @@ I also love solving data-structures problem solving.
 
 ## Experience
 
-### **Software Engineer**
+### **FullStack Software Engineer**
+### Barclays
+
+- Led development for UI application used by Contact Center Agents, which
+integrates with *AWS Connect*, for Barclays US Consumer Bank.
+- Delivered a UI project for a chat solution transformation within a tight deadline,
+**saving bank +1M £** on legacy platform contract renewal, in turn helping in an
+ORAC (i.e. risk) closure.
+- Shipped features such as **customer PII Masking, pre-defined agent responses,
+supportfor long messages, color coding of chat sessions based on SLA** & many
+more.
+- Integrated **Global Resiliency** feature of AWS Connect into Agent Desktop UI
+application, allowing it to switch between AWS Regions , in case of outage.
+- Built audit tables functionality forin-house chat solution’s DynamoDB tables
+using **DynamoDB Streams**.
+
+### **Senior Software Engineer**
 ### Valuelabs
 
 I work on Test data hub (TDH) , a product of Valuelabs, used to generate, manage test data and more. I worked on migration of node.js backend into micro-services using RabbitMQ message broker and development of remote file access(SFTP & SMB) features in Test data hub. I took interest and worked on configuring and managing docker images.
@@ -44,7 +62,6 @@ GPA 8.4
 
 I love understanding how real time tech products works at scale. So I watch tech talks from their engineering teams.
 
-I love food and hanging out with friends for good food.
 
 ---
 
