@@ -12,14 +12,22 @@ I also love solving data-structures problem solving ,
 
 <p align='left'>
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height='70' width="auto" alt="nodejs">
+  <!-- Front End -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" height='70' width="auto" alt="react.js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height='70' width="auto" alt="redux">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='70' width='auto' alt="js">
+  <br><br>
+  <!-- Back end -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height='70' width="auto" 
+  alt="Go">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height='70' width="auto" alt="nodejs">
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height='70' width='auto' alt="c++">
   <br><br>
+  <!-- Cloud -->
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png' height='70' width='auto' alt="postgres">
-  <!-- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png' height='50' width='auto' alt="rabbitmq"> -->
+  <br><br>
 
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height='70' width="auto" alt="nodejs"> 
   
 </p>
 
