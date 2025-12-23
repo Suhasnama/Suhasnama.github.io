@@ -15,7 +15,7 @@ I also love solving data-structures problem solving , you can find me on leetcod
   <!-- Front End -->
 
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='70' width='auto' alt="Javascript">
-  <img src='https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg' height='70' width='auto' alt="Typescript">
+  <img src='./ts-logo-128.png' height='70' width='auto' alt="Typescript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" height='70' width="auto" alt="react.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height='70' width="auto" alt="redux">
 
